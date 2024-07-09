@@ -99,11 +99,6 @@ div#MemberCount, .title_a7d72e, .uploadModal_f82cc7, .tile_dc5fc4, .interactive_
 .cardContent_eaaaea, .container_a49993, .settingCard_dd864e, .slotsContainer_bdea70, .option_f6639d, .previewForm_c1668f, .container_be6a5c, .container_cfbfb9, .popout_d201be,
 .popout_a9414b, .header_f51af4, .embedWrapper_b558d0 {
   background-image: var(--bgDarkness3) !important;
-  background-clip: border-box !important;
-  background-origin: padding-box !important;
-  background-attachment: scroll !important;
-  background-repeat: repeat !important;
-  background-size: cover !important;
   background-position: left top !important;
 }
 
