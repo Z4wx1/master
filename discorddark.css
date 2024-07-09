@@ -102,7 +102,7 @@ div#MemberCount, .title_a7d72e, .uploadModal_f82cc7, .tile_dc5fc4, .interactive_
   background-clip: border-box !important;
   background-origin: padding-box !important;
   background-attachment: scroll !important;
-  background-repeat: repeat !important;
+  background-repeat: never !important;
   background-size: auto !important;
   background-position: left top !important;
 }
